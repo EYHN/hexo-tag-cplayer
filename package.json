@@ -1,0 +1,17 @@
+{
+  "name": "hexo-tag-cplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EYHN",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "cson": "^4.1.0",
+    "isomorphic-fetch": "^2.2.1",
+    "js-yaml": "^3.9.1",
+    "utility": "^1.12.0"
+  }
+}
